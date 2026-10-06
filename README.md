@@ -23,7 +23,7 @@ Cargo installs the pinned JavaScript dependencies and generates the UI before
 compiling the game; no manual UI build step or checked-in bundle is required.
 
 ```sh
-git clone --recurse-submodules git@github.com:pocket-stack/pocket-openworld.git
+git clone --recurse-submodules git@github.com:pocket-nexus/pocket-openworld.git
 cd pocket-openworld
 cargo run --locked
 ```
